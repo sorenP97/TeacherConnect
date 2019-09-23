@@ -44,3 +44,5 @@ __Ledelsen på universiteter (vision til videreudvikling?)__
  3. Skal kunne tilknytte/administrere forelæsere til fag pr. semester
  4. Skal kunne se den enkelte forelæsers mødeplan
  5. Skal kunne administrere alle brugere (studerende og forelæsere) på programmet
+
+![Klassediagram](https://i.imgur.com/LyofN1C.png)
