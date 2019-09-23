@@ -17,14 +17,14 @@ Til hvert hovedfag er der tilknyttet de respektive forelæsere. Man får derefte
 
 Mht. lokation har vi valgt, at det skal være på forelæserens kontor.
 
-## Kravspecifikationer:
+# Kravspecifikationer:
 
-# Aktører:
+### Aktører:
 - Studerende
 - Forelæsere på universiteter
 - Ledelsen på universiteter (vision til videreudvikling?)
 
-# Liste over kravspecifikationer:
+### Liste over kravspecifikationer:
 
 __Studerende__
 1. Skal kunne logge på og se oversigt over alle ens fag
