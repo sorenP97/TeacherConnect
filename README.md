@@ -2,10 +2,12 @@
 
 - TeacherConnect er en platform, hvor universitetsstuderende kan booke møder med respektive forelæsere, for og få hjælp til et givet fag.
 
-## Analyse (hvad systemet skal kunne):
+## Beskrivelse:
+
+### Analyse (hvad systemet skal kunne):
 Klienten skal via sin universitets mail logges ind på vores system. Systemet skal derefter videreføre klienten til vedkommendes tilhørende linje og fag. Herefter vil klienten kunne trykke sig ind på fag, og de tilliggende forelæsere. Der vil derefter være mulighed for at booke et møde med den valgte forelæser. 
 
-## Design (hvordan):
+### Design (hvordan):
 Vi tager i vores projekt udgangspunkt i CBS. Eftersom vi benytter os af objektorienteret programmering, kan projektet senere hen også videreføres til andre universiteter. Dette vil ske i form af inheritance. 
 
 Når den studerende (brugeren) tilgår vores platform vil de få muligheden for at logge ind med deres CBS mail og adgangskode. Ved successful log-in vil de blive videreført til vores overordnet “startside”. Vi vil integrerer systemet sådan, at det via din CBS bruger kan se hvilken uddannelsestype du er i gang med, samt hvilken studieretning du studerer på. Den studerende vil efterfølgende få givet muligheden for at vælge det specifikke fag, vedkommende ønsker samtalen skal tage udgangspunkt i. Når man klikker på det ønskede fag, får brugeren mulighed for at vælge en ud af 10 forhåndsbesluttede emner. Disse emner er valgt af forelæseren/øvelseslæreren, som de mener er de 10 mest populære emner brugerne søger hjælp til. Hvis man vil have hjælp til et emne som ikke er på listen får man mulighed for, at skrive en kommentar hvor vedkommende kan specificere hvilket område brugeren ønsker samtalen skal tage udgangspunkt i. f.eks. kunne dette være, at brugeren vil have en samtale i Programmering og udvikling af små systemer samt databaser med fokus på “scoping”. 
