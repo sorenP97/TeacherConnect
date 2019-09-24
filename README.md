@@ -54,7 +54,7 @@ __Ledelsen på universiteter (vision til videreudvikling?)__
  5. Skal kunne administrere alle brugere (studerende og forelæsere) på programmet
 
 ## Klassediagram:
-![Klassediagram](https://i.imgur.com/LyofN1C.png)
+![Klassediagram](https://i.imgur.com/Gy7ouEU.png)
 
 __Authors__
 - Søren Poulsen
