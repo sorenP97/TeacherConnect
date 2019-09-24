@@ -57,6 +57,6 @@ __Ledelsen på universiteter (vision til videreudvikling?)__
 ![Klassediagram](https://i.imgur.com/LyofN1C.png)
 
 __Authors__
-1. Søren Poulsen
-2. Oliver Langkjær Michelsen
-3. Andreas Emanuel Bennecke
+- Søren Poulsen
+- Oliver Langkjær Michelsen
+- Andreas Emanuel Bennecke
